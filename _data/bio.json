@@ -13,48 +13,4 @@
     "about_us": [
     { "name": "We're a team of four student developers who created this pixel-art platformer as a class project. From concept to final build, we worked together to design, code, and polish a unique and challenging gameplay experience." },
   ],
-  "Features": [
-    {
-      "name": "Add some extra features",
-      "keywords": [ "Add a x amount of attempts the user plays", "timer", "add leaderboard for fastest time a level was completed" ]
-    },
-    {
-      "name": "Customization",
-      "keywords": [ "Custom Characters", "Hats", "Clothing", "Face accessories", "Shoes" ]
-    }
-  ],
-  "": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      ]
-    }
-  ],
-
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
