@@ -15,6 +15,11 @@ labels:
 
 ![Abyssborne Background](https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/Background.png)
 
+<video width="560" height="315" controls>
+  <source src="https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/Screen-Recording%20(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Introduction
 
 After my first week of using ESLint with IntelliJ, my first impressions were quite mixed. I also found that trying to get the green checkmark could be really frustrating at times and also pretty helpful and useful. Lets dive into my experience as we explore my journey with ESLint and IntelliJ, transforming initial challenges into a symphony of ease and creativity.
