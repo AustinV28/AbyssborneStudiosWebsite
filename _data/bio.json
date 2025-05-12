@@ -13,7 +13,7 @@
     "about_us": [
     { "name": "We're a team of four student developers who created this pixel-art platformer as a class project. From concept to final build, we worked together to design, code, and polish a unique and challenging gameplay experience." },
   ],
-  "": [
+  " ": [
     {
       "name": "Add some extra features",
       "keywords": [ "Add a x amount of attempts the user plays", "timer", "add leaderboard for fastest time a level was completed" ]
