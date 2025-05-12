@@ -12,9 +12,6 @@ labels:
   - Floor 2
   - 
 ---
-
-![Abyssborne Background](https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/Background.png)
-
 ## Abyssborne Gameplay Preview
 
 <iframe src="https://drive.google.com/file/d/144UGcy_hVJYt1ukQ3ngWR9EQK4j9-N-u/preview" width="640" height="360" allow="autoplay"></iframe>
