@@ -1,54 +1,38 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Short Gameplay video!"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-05-06
 published: true
 labels:
-  - Engineering
+  - Gameplay
+  - Demo
+  - First 2 Levels
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Introduction
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+After my first week of using ESLint with IntelliJ, my first impressions were quite mixed. I also found that trying to get the green checkmark could be really frustrating at times and also pretty helpful and useful. Lets dive into my experience as we explore my journey with ESLint and IntelliJ, transforming initial challenges into a symphony of ease and creativity.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## The Initial Hurdles
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Initially, grappling with ESLint and IntelliJ felt like navigating through a dense forest without a map. I first had trouble with running 'npm install' on my terminal and I found out that the issue was because I did not install node.js. Also, The constant red squiggly lines and green checkmarks felt like they were my companions. It was complicated, to say the least. However, as I persisted through the initial confusion, I started to notice patterns and understand the rhythm of these coding companions and how the program works.
 
-Here's what I think: the difficult things will always be difficult.
+## Decoding the Green Checkmark
 
-## In the context of programming
+The appeal of the green checkmark became both a motivation and a source of frustration to me. There were moments when achieving it felt like an uphill battle, with each error or warning signaling a small setback. Yet, in those moments of challenge, I discovered the real power of ESLint and IntelliJ. As time went on and as I spent more time trying to figure everything out, I came to a realization that the green checkmark wasn't just a validation, as it was like a guide steering me toward cleaner code and better practices. Also with the help and usage of AI for example, ChatGPT, I was able to overcome many challenges that I have been through to help me get the green checkmark.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## The Turning Point
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+As I spent more time with ESLint and IntelliJ, I had a turning point. The once frustrating and complicated challenges started to unravel, and the once confusing tools transformed into helpful guides, pushing me towards coding with excellence. It was as if a symphony of ease began playing in the background, turning the coding experience from a struggle to a dance.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## The Ease and Creativity Unleashed
 
-## In the context of engineering
+With understanding and patience, the coding process became more than just fixing errors. It became like an avenue for creativity. ESLint and IntelliJ, once seen as obstacles, now became tools that enhanced my coding journey. The green checkmark, became a satisfying confirmation of progress.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## The Conclusion to my journey
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In conclusion, my journey with ESLint and IntelliJ may have started with mixed feelin
