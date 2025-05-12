@@ -3,10 +3,8 @@
     "name": "AbyssBorne Studios",
     "label": "Keita Grant, Nalani Klopfenstein, Jeric Quintans, Austin Jake Villanueva",
     "picture": "img/Abyssborne_Logo_Converted.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "website": "https://austinv28.github.io/AbyssborneStudiosWebsite/",
+    "summary": "Welcome to the official website of AbyssBorne Studios!",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
@@ -15,12 +13,8 @@
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+  "About Us": [
+    { "name": "We're a team of four student developers who created this pixel-art platformer as a class project. From concept to final build, we worked together to design, code, and polish a unique and challenging gameplay experience. " },
   ],
   "skills": [
     {
