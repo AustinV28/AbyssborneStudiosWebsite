@@ -16,27 +16,18 @@ labels:
 
 <iframe src="https://drive.google.com/file/d/144UGcy_hVJYt1ukQ3ngWR9EQK4j9-N-u/preview" width="640" height="360" allow="autoplay"></iframe>
 
+The trailer shows actual gameplay as the player maneuvers through collapsing platforms, evades deadly spike traps, and performs fast-paced jumps. Every element is designed to challenge reflexes while immersing players in a haunting pixel-art atmosphere. There's no UI clutter — just pure platforming focused on rhythm, movement, and survival.
 
 ## Introduction
 
-After my first week of using ESLint with IntelliJ, my first impressions were quite mixed. I also found that trying to get the green checkmark could be really frustrating at times and also pretty helpful and useful. Lets dive into my experience as we explore my journey with ESLint and IntelliJ, transforming initial challenges into a symphony of ease and creativity.
+Abyssborne is a 2D pixel-art obstacle course game developed by four student creators with a passion for retro aesthetics and challenging gameplay. Built in Unity, Abyssborne drops players into a dark abyss full of death-defying jumps, collapsing floors, and spike-laden platforms. The goal is simple — survive the descent. But in practice, it’s anything but easy.
 
-## The Initial Hurdles
+Our vision was to create an experience that is intense, skill-based, and stylistically rich. In this project, we brought that vision to life, combining hand-drawn pixel assets with Unity’s physics system to build a complete, playable vertical platformer.
 
-Initially, grappling with ESLint and IntelliJ felt like navigating through a dense forest without a map. I first had trouble with running 'npm install' on my terminal and I found out that the issue was because I did not install node.js. Also, The constant red squiggly lines and green checkmarks felt like they were my companions. It was complicated, to say the least. However, as I persisted through the initial confusion, I started to notice patterns and understand the rhythm of these coding companions and how the program works.
+## Design and Illustrations
 
-## Decoding the Green Checkmark
+The game’s world features a vertically descending structure built with shadowy pixel tiles, glowing spikes, and environmental elements that evoke an abandoned, cursed place. The player sprite is minimal but expressive, paired with snappy jump animations and sound effects to enhance feedback.
 
-The appeal of the green checkmark became both a motivation and a source of frustration to me. There were moments when achieving it felt like an uphill battle, with each error or warning signaling a small setback. Yet, in those moments of challenge, I discovered the real power of ESLint and IntelliJ. As time went on and as I spent more time trying to figure everything out, I came to a realization that the green checkmark wasn't just a validation, as it was like a guide steering me toward cleaner code and better practices. Also with the help and usage of AI for example, ChatGPT, I was able to overcome many challenges that I have been through to help me get the green checkmark.
+The background, UI overlays, and tilemaps were hand-crafted and intentionally limited in palette to maintain a cohesive dark-abyss aesthetic. Abyssborne borrows inspiration from classic 16-bit games but grounds itself with modern level design principles.
 
-## The Turning Point
-
-As I spent more time with ESLint and IntelliJ, I had a turning point. The once frustrating and complicated challenges started to unravel, and the once confusing tools transformed into helpful guides, pushing me towards coding with excellence. It was as if a symphony of ease began playing in the background, turning the coding experience from a struggle to a dance.
-
-## The Ease and Creativity Unleashed
-
-With understanding and patience, the coding process became more than just fixing errors. It became like an avenue for creativity. ESLint and IntelliJ, once seen as obstacles, now became tools that enhanced my coding journey. The green checkmark, became a satisfying confirmation of progress.
-
-## The Conclusion to my journey
-
-In conclusion, my journey with ESLint and IntelliJ may have started with mixed feelin
+Our ultimate goal is to polish Abyssborne into a publishable indie game built on the foundation of our teamwork, creativity, and shared vision.
