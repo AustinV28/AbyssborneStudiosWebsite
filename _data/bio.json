@@ -11,7 +11,7 @@
 
     ]
   },
-  "About Us": [
+  [
     { "name": "We're a team of four student developers who created this pixel-art platformer as a class project. From concept to final build, we worked together to design, code, and polish a unique and challenging gameplay experience." },
   ],
   "skills": [
