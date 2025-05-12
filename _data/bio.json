@@ -8,7 +8,12 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
          { "network": "github", "username": "AbyssBorne Studios", "url": "https://github.com/AustinV28/AbyssborneStudiosWebsite" },
-
+    ]
+  },
+  "about_us": [
+    {
+      "description": "We're a team of four student developers who created this pixel-art platformer as a class project. From concept to final build, we worked together to design, code, and polish a unique and challenging gameplay experience."
+    }
     ]
   },
   [
