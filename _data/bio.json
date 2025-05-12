@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "AbyssBorne Studios",
-    "label": "Keita Grant, Nalani Klopfenstein, Jeric Quintans, Austin Jake Villanueva",
+    "label": "Welcome to the official website of AbyssBorne Studios!",
     "picture": "img/Abyssborne_Logo_Converted.jpg",
     "website": "https://austinv28.github.io/AbyssborneStudiosWebsite/",
-    "summary": "Welcome to the official website of AbyssBorne Studios!",
+    "summary": "Created by: Keita Grant, Nalani Klopfenstein, Jeric Quintans, Austin Jake Villanueva ",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
