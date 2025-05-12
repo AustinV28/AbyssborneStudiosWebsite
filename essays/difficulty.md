@@ -15,10 +15,10 @@ labels:
 
 ![Abyssborne Background](https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/Background.png)
 
-<video width="560" height="315" controls>
-  <source src="https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/Screen-Recording%20(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Abyssborne Gameplay Preview
+
+<iframe src="https://drive.google.com/file/d/144UGcy_hVJYt1ukQ3ngWR9EQK4j9-N-u/preview" width="640" height="360" allow="autoplay"></iframe>
+
 
 ## Introduction
 
