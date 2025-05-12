@@ -1,5 +1,4 @@
 ---
-title: Projects
 layout: project
 type: project
 image: img/ChatGPT Image May 11, 2025, 11_44_05 PM.png
@@ -9,6 +8,7 @@ published: true
 labels:
   - Unity
 summary: "How we plan to expand Abyssborne beyond the class project. It includes ideas like new levels, powerups, boss challenges, a possible story, and even a multiplayer mode in the future"
+---
 
 <img src="https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/ChatGPT%20Image%20May%2011%2C%202025%2C%2011_47_11%20PM.png" alt="Abyssborne Floor 3 Concept" width="350" height="300">
 
