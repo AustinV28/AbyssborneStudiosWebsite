@@ -17,6 +17,6 @@ Here’s the audio we used for Floor 1:
 
 <iframe src="https://drive.google.com/file/d/10aThPq4oUEnVBSycVK5wA8il9jHLFCVE/preview" width="640" height="60" allow="autoplay"></iframe>
 
-These are the tilemaps we used:
+These are some of the tilemaps we used:
 
 <img class="img-fluid" src="https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/Assets.png" alt="Abyssborne Assets">
