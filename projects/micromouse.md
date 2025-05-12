@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Screenshot_2025-04-29_063435.png
 title: "Visual and Audio Style"
 date: 2025
 published: true
