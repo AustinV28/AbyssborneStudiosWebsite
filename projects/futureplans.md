@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ChatGPT Image May 11, 2025, 11_44_05 PM.png
+image: img/ChatGPT Image May 12, 2025, 12_00_56 AM.png
 title: "Future Plans"
 date: 2025
 published: true
