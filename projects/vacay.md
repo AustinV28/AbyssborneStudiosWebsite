@@ -1,28 +1,16 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/Screenshot 2025-05-11 233459.png
+title: "Core Mechanics"
+date: 2025
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Unity
+summary: "This section goes over how the game works, focusing on timing, movement, and survival. Players have to react quickly to collapsing platforms and spikes, with no combat or story — just pure platforming challenge.."
 ---
+<img align="left" class="img-fluid" src="https://raw.githubusercontent.com/AustinV28/AbyssborneStudiosWebsite/main/img/Screenshot%202025-05-11%20233647.png" alt="Abyssborne Gameplay Screenshot" style="width: 50%; margin-right: 15px; margin-bottom: 10px;">
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+## Core Mechanics
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+From playing and testing the game, I’d say the mechanics are all about timing and movement. You have to jump across platforms that collapse, avoid spikes, and make sure not to fall off. There’s no combat or story — just movement and survival. The fun part is how fast everything happens. You don’t always get to see what’s coming next, so it teaches you to react on the spot. We designed it this way on purpose to keep the player thinking and to make every attempt feel a little different. Even though the controls are simple, staying alive takes some skill.
