@@ -8,7 +8,9 @@ published: true
 labels:
   - Gameplay
   - Demo
-  - First 2 Levels
+  - Floor 1
+  - Floor 2
+  - 
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
