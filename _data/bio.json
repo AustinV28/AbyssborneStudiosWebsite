@@ -13,17 +13,17 @@
     "about_us": [
     { "name": "We're a team of four student developers who created this pixel-art platformer as a class project. From concept to final build, we worked together to design, code, and polish a unique and challenging gameplay experience." },
   ],
-  "skills": [
+  "": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Add some extra features",
+      "keywords": [ "Add a x amount of attempts the user plays", "timer", "add leaderboard for fastest time a level was completed" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Customization",
+      "keywords": [ "Custom Characters", "Hats", "Clothing", "Face accessories", "Shoes" ]
     }
   ],
-  "education": [
+  "": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
